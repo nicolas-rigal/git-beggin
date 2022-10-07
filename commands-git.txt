@@ -1,0 +1,4 @@
+git clone + URL du repository
+git add
+git commit 
+git push
