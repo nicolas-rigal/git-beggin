@@ -3,3 +3,6 @@ git add
 git commit 
 git push
 git pull origin main
+git branch +nom
+git branch
+git chekout +nom de la branche souhaitez 
